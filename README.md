@@ -1,2 +1,3 @@
 # In-Class-Assignment
-In-class assignment 1
+
+Basic biography using HTML and CSS. 
